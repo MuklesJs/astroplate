@@ -1,6 +1,6 @@
 ---
 title: Blog Posts
-meta_title: ''
+meta_title: Meta title
 description: this is meta description
 ---
 mokle hsossen
