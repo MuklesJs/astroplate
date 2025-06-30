@@ -4,7 +4,7 @@
     "public": "public/"
   },
   "content": {
-    "root": "config"
+    "root": "src/content"
   },
   "themeConfig": [
     "src/config/menu.json",
