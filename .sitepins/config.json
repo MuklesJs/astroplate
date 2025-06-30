@@ -15,7 +15,7 @@
       "type": "folder",
       "targetPath": "src/content",
       "groupName": "blogs",
-      "include": "*.md, *.mdx",
+      "include": "*.md, *.mdxfas f",
       "exclude": "!index.md, !index*"
     }
   ],
