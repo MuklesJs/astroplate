@@ -4,20 +4,12 @@
     "public": "public/"
   },
   "content": {
-    "root": "src/content"
+    "root": "public/images"
   },
   "themeConfig": [
     "src/config/menu.json",
     "src/config/theme.json"
   ],
-  "arrangement": [
-    {
-      "type": "folder",
-      "targetPath": "src/content",
-      "groupName": "blogs",
-      "include": "*.md, *.mdxfas f",
-      "exclude": "!index.md, !index*"
-    }
-  ],
+  "arrangement": [],
   "showCommitModal": false
 }
