@@ -1,6 +1,6 @@
 {
   "media": {
-    "root": "public",
+    "root": "scripts",
     "public": "./"
   },
   "content": {
